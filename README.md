@@ -225,6 +225,7 @@ How to use historical data?
         - Identify different categories of two wheeler
         - Identify if user is running
 # Architecture for navigation
+![](assets/user-navigation-architecture.png)
 - `Area search Service`
     - User search for particular location which gets converted into particular lat/long
     - It does two things
